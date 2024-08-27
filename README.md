@@ -1,7 +1,7 @@
 Hi 👋 My name is Raman P
 ========================
 
-Quantum computing
+Computational Physics
 -----------------
 
 Quantum Computing Enthusiast | Seeking Opportunities to Push the Boundaries of Technology
