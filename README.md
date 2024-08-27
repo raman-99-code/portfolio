@@ -9,7 +9,7 @@ Quantum Computing Enthusiast | Seeking Opportunities to Push the Boundaries of T
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://https://raman-99-code.github.io/portfolio/)
 * ✉️  You can contact me at [ramanramanp99@gmail.com](mailto:ramanramanp99@gmail.com)
-* 🧠  I'm learning Quantum machine learning
+
 
 ### Skills
 
