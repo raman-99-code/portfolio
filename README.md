@@ -4,7 +4,7 @@ Hi 👋 My name is Raman P
 Computational Physics
 -----------------
 
-Quantum Computing Enthusiast | Seeking Opportunities to Push the Boundaries of Technology
+Physics Student | Seeking Opportunities to Push the Boundaries of Technology
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://https://raman-99-code.github.io/portfolio/)
